@@ -29,3 +29,9 @@ h3 {
     font-style: 21px;
     color:gray;
 }
+
+footer p{
+    color: gray;
+    align-items: end;
+    justify-content: flex-end;
+}
